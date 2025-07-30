@@ -87,6 +87,7 @@ AO	Arduino Pin A0
 
 
 ---
+<img width="1919" height="918" alt="Image" src="https://github.com/user-attachments/assets/50d1a50a-f7f3-477a-b6c8-f312f167f0d5" />
 
 ✅ Step 4: Install DHT Library
 
